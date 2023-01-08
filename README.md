@@ -15,4 +15,6 @@
 4. 참가 대상
 일반인, 학생 등 누구나.
 
+5. Data
+https://dacon.io/competitions/official/235863/data
 -출처 : Dacon
